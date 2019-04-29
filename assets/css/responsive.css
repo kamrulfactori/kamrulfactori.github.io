@@ -1,0 +1,391 @@
+/* Medium Layout: 1280px. */
+@media(max-width: 1199px) { 
+.header-top-area {
+	font-size: 13px;
+} 
+.single-slider-item h2 {
+	font-size: 50px;
+}    
+    
+}
+/* Tablet Layout: 768px. */
+@media(max-width: 991px) { 
+.header-top-area a, .header-top-area, .text-right {
+  text-align: center;
+}
+.header-top-area {
+    font-size: 12px;
+}
+.mainmenu-area, .logo, .mainmenu, .text-right {
+  text-align: center;
+}
+.mainmenu ul li ul{
+  top: 80px
+}
+.mainmenu ul li:hover ul{
+  top: 48px
+}
+.single-slider-item{
+  text-align: center;
+  font-size: 16px
+}
+.single-slider-item h2{
+  font-size: 40px
+}
+.flaticon-content-block {
+  padding: 40px 0;
+}
+.single-service-item p {
+  margin: 0;
+}
+.flaticon-btn {
+  font-size: 13px;
+}
+.flaticon-cta-area {
+  text-align: center;
+}
+.flaticon-cta-area h2 {
+  margin: 10px 0;
+  font-size: 30px;
+}
+.who-we-are-text {
+  padding: 0 43px;
+  margin-bottom: 60px;
+  padding: 0 20px;
+}
+.single-promo-text {
+  margin-top: 50px;
+}
+.promo-vedio-content {
+  margin-bottom: 30px;
+} 
+.single-footer{
+    margin-bottom: 20px;
+}    
+.factorian-content-block.factorian-breadcrumb h2 {
+  font-size: 25px;
+  margin: 0;
+}
+.factorian-content-block.factorian-breadcrumb h3 {
+  font-size: 20px;
+}
+.factorian-content-block {
+  padding: 40px 0;
+}
+.single-service-item {
+  margin-bottom: 19px;
+}
+.factorian-content-block.factorian-service-breadcrumb h2 {
+  font-size: 25px;
+}
+.spacer-45 {
+  margin: 0;
+}
+.factorian-content-block h3 {
+  margin-bottom: 5px;
+}
+.factorian-content-block p {
+  margin-bottom: 0px;
+}
+.factorian-form-title {
+  margin-top: 20px;
+}
+.single-step-item h3 {
+  margin: 15px 0px 0px;
+  font-size: 18px;
+}
+.contact-image {
+  margin: 20px 0 0px;
+}
+.bigger-test-link {
+  font-size: 20px;
+}
+ .factorian-content-block {
+  overflow: hidden;
+}
+.factorian-form-title {
+  overflow: hidden;
+}   
+.who-we-are-text {
+  padding: 0 43px;
+  margin-bottom: 25px;
+  padding: 10px 0;
+}
+.spacer-85 {
+  margin: 20px 0;
+}
+.border-spacer-85 {
+  padding-top: 30px;
+  margin-bottom: 30px;
+}
+
+
+}
+
+/* Wide Mobile Layout: 480px. */
+@media(max-width: 767px) { 
+.mainmenu{
+    display: none;
+}
+.logo {
+  text-align: left;
+}
+.responsive-menu-wrap {
+  display: block;
+  position: absolute;
+  right: 13px;
+  top: 50%;
+  margin-top: -15px;
+}
+.slicknav_btn {
+  margin: 0;
+}
+.slicknav_nav {
+  width: 200px;
+  background-color: #333;
+  border-radius: 5px;
+}
+.slicknav_nav a:hover {
+  background: #EDBA3B;
+  color: #fff;
+}
+.slicknav_nav .slicknav_row:hover {
+  background: #EDBA3B;
+  color: #fff;
+} 
+.slicknav_menu {
+  background: none;
+  padding: 5px;
+}
+.who-we-are-text {
+  padding: 0 43px;
+  margin-bottom: 20px;
+  padding: 20px 0;
+}
+.factorian-content-block {
+  overflow: hidden;
+}
+.factorian-form-title {
+  overflow: hidden;
+}
+.bigger-test-link {
+  font-size: 20px;
+  line-height: 20px;
+}
+.contact-title {
+  margin: 5px;
+}
+.spacer-85 {
+  margin: 20px 0;
+}
+.border-spacer-85 {
+  padding-top: 20px;
+  margin-bottom: 20px;
+}
+.single-team-box {
+  width: 50%;
+}
+
+}
+
+/* Mobile Layout: 320px. */
+@media(max-width:575px) { 
+ .header-top-area a, .header-top-area, .text-right {
+  text-align: center;
+}
+.header-top-area {
+    font-size: 12px;
+}
+.mainmenu{
+    display: none;
+}
+.responsive-menu-wrap {
+  display: block;
+  position: absolute;
+  right: 13px;
+  top: 50%;
+  margin-top: -15px;
+}
+.logo {
+  text-align: left;
+}
+.responsive-menu-wrap .slicknav_menu {
+  padding: 0;
+  background: none;
+}
+.mainmenu-area {
+  position: relative;
+  z-index: 9;
+}
+.slicknav_btn {
+  margin: 0;
+}
+.slicknav_nav {
+  width: 200px;
+  background-color: #333;
+  border-radius: 5px;
+}
+.slicknav_nav a:hover {
+  background: #EDBA3B;
+  color: #fff;
+}
+.slicknav_nav .slicknav_row:hover {
+  background: #EDBA3B;
+  color: #fff;
+} 
+.single-slider-item{
+  text-align: center;
+  font-size: 16px;
+  height: 450px;    
+}
+.single-slider-item h2 {
+  font-size: 30px;
+}
+.single-service-item h3 {
+  font-size: 20px;
+  margin: 10px 0;
+}
+.flaticon-btn {
+  font-size: 13px;
+}
+.flaticon-cta-area {
+  text-align: center;
+}
+.flaticon-cta-area h2 {
+  margin: 10px 0;
+  font-size: 25px;
+}
+.who-we-are-text {
+  padding: 10px 0;
+  margin: 0;
+}
+.who-we-are-text h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.who-we-are-text p {
+  margin: 0px;
+}
+.single-small-service {
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+}
+.single-promo-text {
+  margin-top: 20px;
+}
+.single-promo-text h2 {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+.single-promo-text p {
+  margin: 0px;
+}
+.promo-vedio-content {
+  margin-bottom: 20px;
+} 
+.promo-vedio-content h3 {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+.section-title h2 {
+  font-size: 20px;
+  margin-bottom: 0px;
+}
+.section-title {
+  margin: 15px 0;
+}
+.single-boxed-item {
+  margin-bottom: 15px;
+}
+.single-boxed-item h3 {
+  margin: 10px 0;
+}
+.single-footer {
+  margin-bottom: 10px;
+}
+.footer-title {
+  margin-bottom: 5px;
+}
+.homepage-slides .owl-nav div {
+    display: none;
+}
+.flaticon-content-block {
+  padding: 40px 0;
+}    
+.footer-top-area {
+  padding: 40px 0;
+}
+.flaticon-cta-area h2 {
+  margin: 10px 0;
+  font-size: 25px;
+}   
+.factorian-content-block.factorian-breadcrumb h3 {
+  margin: 0;
+  font-size: 16px;
+}
+.factorian-content-block.factorian-breadcrumb h2 {
+  font-size: 20px;
+} 
+.gallery-bg-top {
+  height: 190px;
+}
+.light-box {
+  margin-bottom: 15px;
+}
+.factorian-content-block h3 {
+  margin-bottom: 0;
+  font-size: 20px;
+}
+.factorian-content-block p {
+  margin-bottom: 5px;
+}
+.single-step-item span.step-list {
+  height: 30px;
+  width: 30px;
+  line-height: 26px;
+}
+.single-step-item {
+  padding-left: 40px;
+}
+.factorian-form-title h3 {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+.factorian-form-title p {
+  line-height: 1.4;
+}
+.factorian-form {
+  padding: 20px;
+}
+input[type="submit"] {
+  padding: 5px 15px;
+}
+.footer-logo {
+  padding: 8px 15px;
+}
+.factorian-content-block {
+  overflow: hidden;
+}
+.factorian-form-title {
+  overflow: hidden;
+}
+.spacer-85 {
+  margin: 20px 0;
+}
+.border-spacer-85 {
+  padding-top: 20px;
+  margin-bottom: 20px;
+}
+.single-team-box {
+  width: 100%;
+}
+.section-title {
+  max-width: none;
+}
+.single-team-box {
+  height: 280px;
+}
+
+
+    
+}
